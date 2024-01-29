@@ -1,0 +1,8 @@
+win_len,overlap_coeff_win,spectrum_type,win_norm,filter_bank_norm,miniBatchSize,InitialLearnRate,L2Regularization,LearnRateSchedule,LearnRateDropPeriod,LearnRateDropFactor,val_ACC,val_UAR,val_F1
+256,0.75,NaN,false,NaN,32,0.001,0.003,none,1,0.1,86.086,88.408,80.706
+256,0.75,NaN,true,NaN,256,1e-05,3e-05,none,1,0.3,89.294,88.168,83.838
+128,0.5,NaN,false,NaN,512,1e-05,0.0001,piecewise,1,0.1,78.644,82.142,72.496
+256,0.75,NaN,true,NaN,256,1e-05,0.001,none,2,0.3,89.188,87.93,84.072
+128,0.5,NaN,true,NaN,128,1e-05,0.001,piecewise,1,0.01,88.186,89.486,82.352
+256,0.75,NaN,true,NaN,128,1e-05,0.01,piecewise,2,0.01,88.512,87.808,83.282
+128,0.5,NaN,true,NaN,512,3e-05,1e-05,none,1,0.1,89.774,88.664,84.506

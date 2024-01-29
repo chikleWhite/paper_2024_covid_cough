@@ -1,0 +1,14 @@
+win_len,overlap_coeff_win,spectrum_type,win_norm,filter_bank_norm,miniBatchSize,InitialLearnRate,L2Regularization,LearnRateSchedule,LearnRateDropPeriod,LearnRateDropFactor,val_ACC,val_UAR,val_F1
+256,0.75,NaN,false,NaN,128,3e-05,1e-05,piecewise,2,0.3,93.23,92.864,87.912
+256,0.75,NaN,false,NaN,32,0.0001,0.001,piecewise,1,0.03,94.142,93.71,89.194
+256,0.75,NaN,false,NaN,32,3e-05,0.03,piecewise,1,0.03,94.008,93.482,89.064
+256,0.75,NaN,false,NaN,256,0.0003,0.0003,piecewise,2,0.3,93.082,93.034,89.228
+128,0.5,NaN,false,NaN,512,0.0001,0.0001,piecewise,1,0.01,93.762,93.376,88.374
+128,0.5,NaN,false,NaN,256,0.0003,0.01,none,1,0.1,93.406,93.412,89.47
+256,0.75,NaN,true,NaN,64,0.0001,3e-05,piecewise,1,0.1,93.498,92.948,90.408
+256,0.75,NaN,false,NaN,128,0.001,1e-05,piecewise,1,0.03,93.156,93.116,87.776
+256,0.75,NaN,true,NaN,256,0.001,0.001,piecewise,1,0.03,93.71,93.628,89.604
+256,0.75,NaN,false,NaN,64,1e-05,0.0001,none,2,0.3,93.018,91.832,88.484
+128,0.5,NaN,true,NaN,32,3e-05,0.003,piecewise,2,0.01,93.876,93.35,91.172
+256,0.75,NaN,false,NaN,128,0.0001,0.0001,none,1,0.3,93.162,92.768,88.626
+256,0.75,NaN,false,NaN,512,0.0003,0.01,piecewise,1,0.03,93.438,93.296,89.706

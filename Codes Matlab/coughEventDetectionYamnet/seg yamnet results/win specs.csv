@@ -1,0 +1,3 @@
+win_length,overlap,num_spectrums,segment_length
+128,0.5,96,6208
+0.008,NaN,NaN,0.388

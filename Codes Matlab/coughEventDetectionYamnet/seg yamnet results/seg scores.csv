@@ -1,0 +1,4 @@
+per,accuracy [%],UAR [%],F1_score [%],specificity [%],sensitivity [%],PPV [%]
+segment,94.4,93.5,91.4,96.2,90.8,92.1
+event 50% overlap,NaN,NaN,94.4,NaN,96.2,92.7
+event 70% overlap,NaN,NaN,91,NaN,92.2,89.9
