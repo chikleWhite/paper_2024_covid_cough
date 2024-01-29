@@ -1,0 +1,9 @@
+1 - 1st phase of cough (explosion)
+2 - 2nd phase of cough (decay)
+3 - 3rd phase of cough (voiced)
+4 - breathing
+
+recordings not yet labeld:
+
+
+recordings with breathing:
