@@ -1,0 +1,1 @@
+len_fc_cnn,numHiddenUnits,drop_prob,len_fc_lstm,L2Reg,LearnRateDropFactor,UAR_end_train,UAR_end_val,UAR_best_train,UAR_best_val
