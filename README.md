@@ -7,7 +7,7 @@ In March 2020, the World Health Organization declared COVID-19 to be a global pa
 ![proposed system simple ver3](https://github.com/chikleWhite/paper_2024_covid_cough/assets/136971404/3ef51277-5d82-4a08-a20e-dbdd9ad62357)
 
 Cough event detection:
-We implemented a cough event detection system (Fig. 5) using MobileNet-based architecture named Yet Another Mobile Network (YAMNet).
+We implemented a cough event detection system using MobileNet-based architecture named Yet Another Mobile Network (YAMNet).
 
 ![image](https://github.com/chikleWhite/paper_2024_covid_cough/assets/136971404/b40f29f9-2ceb-42b5-99f0-655349f01bc8)
 ![image](https://github.com/chikleWhite/paper_2024_covid_cough/assets/136971404/ab3e1fd6-5f55-4661-a7c6-e44702e256af)
