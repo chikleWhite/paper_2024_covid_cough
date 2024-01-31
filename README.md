@@ -1,4 +1,4 @@
-# COVID-19 diagnosis using coughaudio signal processing
+# COVID-19 diagnosis using cough audio signal processing
 Our study addresses the pressing need for robust algorithms in physiological time series analysis by introducing a novel approach for COVID-19 detection through cough audio recordings
 
 ![image](https://github.com/chikleWhite/paper_2024_covid_cough/assets/136971404/b8384ec3-3dbe-494b-a3ac-1e4b5dccc0e7)
