@@ -3,9 +3,9 @@ Our study addresses the pressing need for robust algorithms in physiological tim
 
 ![image](https://github.com/chikleWhite/paper_2024_covid_cough/assets/136971404/b8384ec3-3dbe-494b-a3ac-1e4b5dccc0e7)
 
-Nir Iakoby and Yaniv Zigel, Senior Member, IEEE
-Department of Biomedical Engineering, Biomedical Signal Processing Lab
-Ben-Gurion University of the Negev, Beer-Sheva, Israel
+Nir Iakoby and Yaniv Zigel, Senior Member, IEEE.
+Department of Biomedical Engineering, Biomedical Signal Processing Lab.
+Ben-Gurion University of the Negev, Beer-Sheva, Israel.
 e-mail: iakoby@post.bgu.ac.il
 
 Abstract:
